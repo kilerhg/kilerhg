@@ -25,7 +25,7 @@ My name is Lucas and ...:
 
  - 😄 I really like to learn
  - 📚 I'm studying Linux and Python now
- - 🌍 And I like to Write Sometimes
+ - :black_nib: And I like to Write Sometimes
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true)
 
