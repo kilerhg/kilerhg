@@ -25,7 +25,7 @@ My name is Lucas and ...:
 
  - 😄 I really like to learn
  - 📚 I'm studying Linux and Python now
- - :black_nib: And I like to Write Sometimes
+ - :black_nib: And I like to <a href="https://www.pensador.com/autor/lucas_nunes_de_assis/"> <b>Write</b></a> Sometimes
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true)
 
