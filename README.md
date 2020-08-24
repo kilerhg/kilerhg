@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasnunesdeassis/)](https://www.linkedin.com/in/kilerhg/)
 
-### Helllooww! 👋 Welcome to my <a target="_blank" rel="noopener noreferrer" href="https://www.lucasnunes.me" > <b>profile</b></a> ;)
+### Hellloo! 👋 Welcome to my <a target="_blank" rel="noopener noreferrer" href="https://www.lucasnunes.me" > <b>profile</b></a> ;)
 
 My name is <b>Lucas</b> and ...:
 
