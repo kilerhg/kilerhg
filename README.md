@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <!--
-**kilerhg/kilerhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Lucas Nunes De Assis
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasnunesdeassis/)](https://www.linkedin.com/in/kilerhg/)
+
+### Helllooww! 👋 Welcome to my profile ;)
+
+My name is Lucas and ...:
+
+ - 😄 I really like to learn
+ - 📚 I'm studying Linux and Python now
+ - 🌍 And I like to Write Sometimes
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=gslmota&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true)
+
