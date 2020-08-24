@@ -27,7 +27,7 @@ My name is Lucas and ...:
  - 📚 I'm studying Linux and Python now
  - 🌍 And I like to Write Sometimes
  
-![github stats](https://github-readme-stats.vercel.app/api?username=gslmota&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=compact&hide_border=true)
 
