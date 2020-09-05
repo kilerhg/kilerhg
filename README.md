@@ -31,5 +31,5 @@ My name is <b>Lucas</b> and ...:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kilerhg&repo=Python-Studies&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kilerhg&repo=Python-Studies&theme=highcontrast)
 
