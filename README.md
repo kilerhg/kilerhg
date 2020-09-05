@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 My name is <b>Lucas</b> and ...:
 
  - 😄 I really like to <b>learn</b>
- - 📚 I'm studying <b>Linux</b> and <b>Python</b> now
+ - 📚 I'm studying <b>Linux</b> and <b>[Python](https://github.com/kilerhg/Python-Studies)</b> now
  - :black_nib: And I like to <a target="_blank" rel="noopener noreferrer" href="https://www.pensador.com/autor/lucas_nunes_de_assis/"> <b>Write</b></a> Sometimes
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true)
