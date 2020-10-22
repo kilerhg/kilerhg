@@ -29,7 +29,7 @@ My name is <b>Lucas</b> and ...:
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,JupyterNotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter_Notebook)
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kilerhg&repo=Python-Studies&theme=highcontrast)
 
