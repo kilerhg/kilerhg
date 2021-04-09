@@ -10,7 +10,7 @@
 ### 👦 Sobre mim :
 > * 👋 18 Aninhos.
 > * 📌 Sou de Osasco, SP - Brasil.
-> * 💬 Me chame Para falar sobre **Python**, Com certeza irei adorar ;)
+> * 💬 Me chame Para falar sobre [**Python**](https://github.com/kilerhg/Python-Studies#readme), Com certeza irei adorar ;)
 > * 🛠️ Estou focando em Virar um **Cientista de dados**.
 > * 🔭 Segredo: Já escrevi Alguns Contos & Poemas.
 > * Sou Contra todo e qualquer tipo de discriminação!
@@ -34,8 +34,7 @@
 > * ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=FFFFFF)
 
 ### 📔 Publicando Artigos:
-> * ![Kaggle](https://img.shields.io/badge/-Kaggle-181717?&logo=Kaggle&logoColor=FFFFFF) ![Medium](https://img.shields.io/badge/-Medium-181717?&logo=Medium&logoColor=FFFFFF)
-
+> * [![Kaggle](https://img.shields.io/badge/-Kaggle-181717?&logo=Kaggle&logoColor=FFFFFF)](https://www.kaggle.com/kilerhg) [![Medium](https://img.shields.io/badge/-Medium-181717?&logo=Medium&logoColor=FFFFFF)](https://medium.com/@kilerhg)
 
 
 ### Estatísticas gerais
