@@ -23,10 +23,7 @@
 ### 🧰 Ferramentas:
 > * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![PyPI](https://img.shields.io/badge/-PyPI-181717?&logo=PyPI&logoColor=FFFFFF)
 
-<br>
-<br>
-<br>
-<br>
+
 
 ---------------
 
