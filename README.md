@@ -20,6 +20,8 @@
 
 ### 📦 DataBases & DataStorage:
 > * ![MySql](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=FFFFFF) ![JSON](https://img.shields.io/badge/-Json-181717?&logo=json&logoColor=FFFFFF) ![CSV](https://img.shields.io/badge/-CSV-181717?&logo=databricks&logoColor=FFFFFF)
+### 🧰 Ferramentas:
+> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![PyPI](https://img.shields.io/badge/-PyPI-181717?&logo=PyPI&logoColor=FFFFFF)
 
 <br>
 <br>
@@ -27,9 +29,6 @@
 <br>
 
 ---------------
-
-### 🧰 Ferramentas:
-> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![PyPI](https://img.shields.io/badge/-PyPI-181717?&logo=PyPI&logoColor=FFFFFF)
 
 ### 💚 IDE'S:
 > * ![Atom](https://img.shields.io/badge/-Atom-181717?&logo=Atom&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
