@@ -21,6 +21,11 @@
 ### 📦 DataBases & DataStorage:
 > * ![MySql](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=FFFFFF) ![JSON](https://img.shields.io/badge/-Json-181717?&logo=json&logoColor=FFFFFF) ![CSV](https://img.shields.io/badge/-CSV-181717?&logo=databricks&logoColor=FFFFFF)
 
+<br>
+<br>
+<br>
+<br>
+
 ---------------
 
 ### 🧰 Ferramentas:
