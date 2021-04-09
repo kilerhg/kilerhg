@@ -1,4 +1,4 @@
-# Olá, Eu sou o **Lucas** 🐍 🌐 👩‍💻;)
+# Olá, Eu sou o **Lucas Nunes** 🐍 🌐 👩‍💻;)
 
 <br>
 
@@ -9,11 +9,11 @@
 
 ### 👦 Sobre mim :
 > * 👋 18 Aninhos.
-* 📌 Sou de Osasco, SP - Brasil.
-* 💬 Me chame Para falar sobre **Python**, Com certeza irei adorar ;)
-* 🛠️ Estou focando em Virar um **Cientista de dados**.
-* 🔭 Segredo: Já escrevi Alguns Contos & Poemas.
-* Sou Contra todo e qualquer tipo de discriminação!
+> * 📌 Sou de Osasco, SP - Brasil.
+> * 💬 Me chame Para falar sobre **Python**, Com certeza irei adorar ;)
+> * 🛠️ Estou focando em Virar um **Cientista de dados**.
+> * 🔭 Segredo: Já escrevi Alguns Contos & Poemas.
+> * Sou Contra todo e qualquer tipo de discriminação!
 
 ### ⚡ Conhecimentos :
 > * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![Selenium](https://img.shields.io/badge/-Selenium-181717?&logo=Selenium&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=FFFFFF) ![WebScraping](https://img.shields.io/badge/-Web%20Scraping-181717?&logo=WebStorm&logoColor=FFFFFF)
