@@ -8,7 +8,6 @@
 
 
 ### 👦 Sobre mim :
-> * 👋 18 Aninhos.
 > * 📌 Sou de Osasco, SP - Brasil.
 > * 💬 Me chame Para falar sobre [**Python**](https://github.com/kilerhg/Python-Studies#readme), Com certeza irei adorar ;)
 > * 🛠️ Estou focando em Virar um **Cientista de dados**.
