@@ -42,7 +42,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
 
 ### 📈  linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
 
 
 ![Visitantes](https://komarev.com/ghpvc/?username=kilerhg)
