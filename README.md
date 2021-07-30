@@ -11,6 +11,7 @@
 > * 📌 Sou de Osasco, SP - Brasil.
 > * 💬 Me chame Para falar sobre [**Python**](https://github.com/kilerhg/Python-Studies#readme), Com certeza irei adorar ;)
 > * 💼 Atualmente Trabalhando na [**BDO Brazil**](https://www.linkedin.com/company/bdobrazil), Como Trainee ;)
+> * 🎓 Estudando Análise E Desenvolimento de Sistemas Na [**FIAP**](https://www.fiap.com.br/)
 > * 🛠️ Estou focando em Virar um **Cientista de dados**.
 > * 🔭 Segredo: Já escrevi Alguns Contos & Poemas.
 > * 🚫 Sou Contra todo e qualquer tipo de discriminação!
