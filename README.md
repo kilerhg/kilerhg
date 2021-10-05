@@ -48,7 +48,7 @@
 
 
 ![Visitantes](https://komarev.com/ghpvc/?username=kilerhg)
-
+[![wakatime](https://wakatime.com/badge/user/f9ef48ca-e899-4e4f-9673-ff0acd8f2b9a.svg)](https://wakatime.com/@f9ef48ca-e899-4e4f-9673-ff0acd8f2b9a)
 -------
 
 ##  Ei, Entre em **Contato Comigo!!** ;)
