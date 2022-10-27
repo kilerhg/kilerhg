@@ -5,7 +5,7 @@ title="PT-BR" width="30" height="20"/> <img src="./en-us.jpeg"
 title="EN-US" width="30" height="20"/>
 
 <img src="./eu.jpeg"
-title="EU" width="469" height="469" align="right" />
+title="EU" width="300" height="330" align="right" />
 
 ## 👦 About me
 
