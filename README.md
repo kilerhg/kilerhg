@@ -54,11 +54,11 @@ title="EU" width="469" height="469" align="right" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kilerhg&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
 
+![Visitantes](https://komarev.com/ghpvc/?username=kilerhg) [![wakatime](https://wakatime.com/badge/user/f9ef48ca-e899-4e4f-9673-ff0acd8f2b9a.svg)](https://wakatime.com/@f9ef48ca-e899-4e4f-9673-ff0acd8f2b9a)
+
 ### 📈  linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
-![Visitantes](https://komarev.com/ghpvc/?username=kilerhg)
-[![wakatime](https://wakatime.com/badge/user/f9ef48ca-e899-4e4f-9673-ff0acd8f2b9a.svg)](https://wakatime.com/@f9ef48ca-e899-4e4f-9673-ff0acd8f2b9a)
 
 ---------------
 
