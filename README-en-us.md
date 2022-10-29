@@ -3,8 +3,7 @@
 <a href="./README.md">
     <img src="./pt-br.jpeg"
     title="PT-BR" width="30" height="20"/>
-</a> <a href="./README-en-us.md"> <img src="./en-us.jpeg"
-title="EN-US" width="30" height="20" href="README.md"/> </a>
+</a>
 
 <img src="./eu.jpeg"
 title="EU" width="300" height="330" align="right" />
