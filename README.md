@@ -69,7 +69,7 @@ title="EU" width="300" height="330" align="right" />
 
 ### 📈  Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,Jupyter%20Notebook,Rust)
 
 ---------------
 
