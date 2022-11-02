@@ -17,6 +17,8 @@ title="EU" width="300" height="330" align="right" />
 > * ✒️ Já escrevi Alguns Contos & Poemas.
 > * 🔭 Sou apaixonado por astronomia.
 
+---------------
+
 ### ⚡ Linguagens de Programação & Marcação
 
 > * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?&logo=JavaScript&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-JAVA-181717?&logo=java&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-181717?&logo=HTML5&logoColor=FFFFFF) ![MARKDOWN](https://img.shields.io/badge/-MD-181717?&logo=MARKDOWN&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-181717?&logo=css3&logoColor=FFFFFF)
@@ -28,8 +30,6 @@ title="EU" width="300" height="330" align="right" />
 ### 🖥 DataBases
 
 > * ![MySql](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=postgresql&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=oracle&logoColor=FFFFFF) ![SQLServer](https://img.shields.io/badge/-SQLServer-181717?&logo=Microsoft+SQL+Server&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?&logo=mongodb&logoColor=FFFFFF)
-
----------------
 
 ### ☁️ Cloud
 
