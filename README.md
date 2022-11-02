@@ -59,7 +59,7 @@ title="EU" width="300" height="330" align="right" />
 
 ### 🏅 Competitive Programming
 
-> * [![CodingGame](https://img.shields.io/badge/-CodinGame-181717?&logo=CodinGame&logoColor=FFFFFF)](https://www.codingame.com/profile/1f76d58b42e9a98e275492628fc71a4a8390905) [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?&logo=HackerRank&logoColor=FFFFFF)](https://medium.com/@kilerhg) [![beecrowd](https://img.shields.io/badge/-Beecrowd-181717?&logo=beecrowd&logoColor=FFFFFF)](https://www.beecrowd.com.br/judge/pt/profile/451947)
+> * [![CodingGame](https://img.shields.io/badge/-CodinGame-181717?&logo=CodinGame&logoColor=FFFFFF)](https://www.codingame.com/profile/1f76d58b42e9a98e275492628fc71a4a8390905) [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?&logo=HackerRank&logoColor=FFFFFF)](https://www.hackerrank.com/kilerhg) [![beecrowd](https://img.shields.io/badge/-Beecrowd-181717?&logo=beecrowd&logoColor=FFFFFF)](https://www.beecrowd.com.br/judge/pt/profile/451947)
 
 ### Overall Statics
 
@@ -70,7 +70,6 @@ title="EU" width="300" height="330" align="right" />
 ### 📈  Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilerhg&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
-
 
 ---------------
 

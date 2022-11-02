@@ -13,7 +13,7 @@ title="EU" width="300" height="330" align="right" />
 > * 💼 Atualmente Trabalhando na [**BDO Brazil**](https://www.linkedin.com/company/bdobrazil), Como Desenvolvedor Back-End.
 > * 🎓 Estudando Análise E Desenvolimento de Sistemas Na [**FIAP**](https://www.fiap.com.br/)
 > * 🛠️ Sou entusiasta em **Cientista de dados**.
-> * 📹 Eu crio conteúdo na [Twitch](https://twitch.tv/kilerhg) e no[Youtube](https://www.youtube.com/channel/UCHwKv2z-bKtuReIqssMuMkw).
+> * 📹 Eu crio conteúdo na [Twitch](https://twitch.tv/kilerhg) e no [Youtube](https://www.youtube.com/channel/UCHwKv2z-bKtuReIqssMuMkw).
 > * ✒️ Já escrevi Alguns Contos & Poemas.
 > * 🔭 Sou apaixonado por astronomia.
 
@@ -57,7 +57,7 @@ title="EU" width="300" height="330" align="right" />
 
 ### 🏅 Programação Competitiva
 
-> * [![CodingGame](https://img.shields.io/badge/-CodinGame-181717?&logo=CodinGame&logoColor=FFFFFF)](https://www.codingame.com/profile/1f76d58b42e9a98e275492628fc71a4a8390905) [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?&logo=HackerRank&logoColor=FFFFFF)](https://medium.com/@kilerhg) [![beecrowd](https://img.shields.io/badge/-Beecrowd-181717?&logo=beecrowd&logoColor=FFFFFF)](https://www.beecrowd.com.br/judge/pt/profile/451947)
+> * [![CodingGame](https://img.shields.io/badge/-CodinGame-181717?&logo=CodinGame&logoColor=FFFFFF)](https://www.codingame.com/profile/1f76d58b42e9a98e275492628fc71a4a8390905) [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?&logo=HackerRank&logoColor=FFFFFF)](https://www.hackerrank.com/kilerhg) [![beecrowd](https://img.shields.io/badge/-Beecrowd-181717?&logo=beecrowd&logoColor=FFFFFF)](https://www.beecrowd.com.br/judge/pt/profile/451947)
 
 ### Estatísticas gerais
 
