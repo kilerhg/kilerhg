@@ -10,7 +10,7 @@
 > * 📌 I'm from SP - Brazil.
 > * 💬 Text me to talk about [**Python**](https://github.com/kilerhg/Python-Studies#readme), For sure I'll love to ;)
 > * 💼 I'm currently working at [**Kantar Ibope Media**](https://www.linkedin.com/company/kantaribopemedia/), As a Data Engineer.
-> * 🎓 Post-Degree Of Data Analyst At [**FIAP**](https://www.fiap.com.br/)
+> * 🎓 Currently doing an Post-Degree Of Data Analyst At [**FIAP**](https://www.fiap.com.br/)
 > * 🛠️ Data Science Enthusiast.
 > * 📹 I Create some content at [Twitch](https://twitch.tv/kilerhg) and [Youtube](https://www.youtube.com/channel/UCHwKv2z-bKtuReIqssMuMkw).
 > * ✒️ I have already written some Poetic texts.
