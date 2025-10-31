@@ -9,8 +9,8 @@
 
 > * 📌 I'm from SP - Brazil.
 > * 💬 Text me to talk about [**Python**](https://github.com/kilerhg/Python-Studies#readme), For sure I'll love to ;)
-> * 💼 I'm currently working at [**Teramind**](https://www.linkedin.com/company/teramindco/), As a Sr Python Engineer.
-> * 🎓 Currently doing an Post-Degree Of Data Analyst At [**FIAP**](https://www.fiap.com.br/)
+> * 💼 I'm currently working at [**Focuz Analytics**](https://ee.linkedin.com/company/focuz-analytics), As a Sr Python/Data Engineer.
+> * 🎓 Post graduate Degree in Data Analyst At [**FIAP**](https://www.fiap.com.br/)
 > * 🛠️ Data Science Enthusiast.
 > * 📹 I Create some content at [Twitch](https://twitch.tv/kilerhg) and [Youtube](https://www.youtube.com/channel/UCHwKv2z-bKtuReIqssMuMkw).
 > * ✒️ I have already written some Poetic texts.
